@@ -3,7 +3,8 @@
 to fetch JSON Info.[python flask]
 
 Usage :
-Sample API : https://jsonplaceholder.typicode.com/users
+
+Sample API taken from : https://jsonplaceholder.typicode.com/users
 
 (ans1) Reference [to build database schema] : https://sqldbm.com/
 
