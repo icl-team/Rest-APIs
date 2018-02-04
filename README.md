@@ -4,6 +4,8 @@ to fetch JSON Info.[python flask]
 
 Usage :
 
+(ans1) Reference [to build database schema] : https://sqldbm.com/
+
 (ans4) Delete User : http://127.0.0.1:5000/users_DB_ICL/users/del/<any_id>
 
 (ans5) View All Users : http://127.0.0.1:5000/users_DB_ICL/users
