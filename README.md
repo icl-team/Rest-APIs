@@ -1,8 +1,11 @@
 # Rest-APIs
 
 to fetch JSON Info.[python flask]
+
 Extra Libraries/Frameworks : flask,sqlalchemy,jsonify
+
 Usage :
+
 file : icl_script.py :
 
 Sample API taken from : https://jsonplaceholder.typicode.com/users
