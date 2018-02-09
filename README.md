@@ -22,7 +22,7 @@ file : icl_script_2.py
 
 Database Used : icl_lab.db (Custom Made)
 
-(ans2) Add User : http://127.0.0.1:5002/icl/add/<1,2,35> (3 Sample Data)
+(ans2) Add User : http://127.0.0.1:5002/icl/add/<1,2,35> (3 Sample Data Used)
 
-(ans3) Update User : http://127.0.0.1:5002/icl/update/<1,2,35> (3 Sample Data)
+(ans3) Update User : http://127.0.0.1:5002/icl/update/<1,2,35> (3 Sample Data Used)
 
